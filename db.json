@@ -1,0 +1,15 @@
+{
+	"products":[
+		{
+			"id": 1,
+			"name": "Audi",
+			"price": 30000
+		},
+		{
+			"id": 2,
+			"name": "Mercedes Benz",
+			"price": 50000
+		}
+		
+	]
+}
