@@ -3,12 +3,14 @@
 		{
 			"id": 1,
 			"name": "Audi",
-			"price": 30000
+			"price": 30000,
+			"image": "http://res.cloudinary.com/jrleon90/image/upload/v1521838811/asphalt-auto-automobile-244206.jpg"
 		},
 		{
 			"id": 2,
 			"name": "Mercedes Benz",
-			"price": 50000
+			"price": 50000,
+			"image":"http://res.cloudinary.com/jrleon90/image/upload/c_scale,h_491/v1521838798/automobile-automotive-car-112460.jpg"
 		}
 		
 	]
