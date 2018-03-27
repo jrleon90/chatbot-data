@@ -5,21 +5,24 @@
 			"brand": "Audi",
 			"model": "RS7",
 			"price": 30000,
-			"image": "http://res.cloudinary.com/jrleon90/image/upload/v1521838811/asphalt-auto-automobile-244206.jpg"
+			"image": "http://res.cloudinary.com/jrleon90/image/upload/v1521838811/asphalt-auto-automobile-244206.jpg",
+			"brandImage":"http://res.cloudinary.com/jrleon90/image/upload/v1522183248/audi-logo.jpg"
 		},
 		{
 			"id": 2,
 			"brand": "Audi",
 			"model": "A6",
 			"price": 25000,
-			"image": "http://res.cloudinary.com/jrleon90/image/upload/v1521838811/asphalt-auto-automobile-244206.jpg"
+			"image": "http://res.cloudinary.com/jrleon90/image/upload/v1521838811/asphalt-auto-automobile-244206.jpg",
+			"brandImage": "http://res.cloudinary.com/jrleon90/image/upload/v1522183248/audi-logo.jpg"
 		},
 		{
 			"id": 3,
 			"brand": "Mercedes Benz",
 			"model": "AMG",
 			"price": 50000,
-			"image":"http://res.cloudinary.com/jrleon90/image/upload/c_scale,h_491/v1521838798/automobile-automotive-car-112460.jpg"
+			"image":"http://res.cloudinary.com/jrleon90/image/upload/c_scale,h_491/v1521838798/automobile-automotive-car-112460.jpg",
+			"brandImage": "http://res.cloudinary.com/jrleon90/image/upload/v1522183248/mercedes_logos_PNG29.png"
 		}
 		
 	]
