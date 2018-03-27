@@ -23,6 +23,15 @@
 			"price": 50000,
 			"image":"http://res.cloudinary.com/jrleon90/image/upload/c_scale,h_491/v1521838798/automobile-automotive-car-112460.jpg",
 			"brandImage": "http://res.cloudinary.com/jrleon90/image/upload/v1522183248/mercedes_logos_PNG29.png"
+		},
+		{
+			"id": 4,
+			"brand": "BMW",
+			"model": "M3",
+			"price": 45000,
+			"image": "http://res.cloudinary.com/jrleon90/image/upload/c_scale,w_1086/v1521838809/pexels-photo-170811.jpg",
+			"brandImage": "http://res.cloudinary.com/jrleon90/image/upload/v1522185606/BMW-logo-880x660.png"
+		
 		}
 		
 	]
