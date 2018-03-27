@@ -1,26 +1,33 @@
 {
 	"products":[
-		{
-			"id": 1,
-			"brand": "Audi",
-			"model": "RS7",
-			"price": 30000,
-			"image": "http://res.cloudinary.com/jrleon90/image/upload/v1521838811/asphalt-auto-automobile-244206.jpg"
+	{
+	"brandId": 1,
+	"brandName": "Audi",
+	"models":[
+			{
+				"modelId": 1,
+				"modelName": "RS7",
+				"price": 30000,
+				"image": "http://res.cloudinary.com/jrleon90/image/upload/v1521838811/asphalt-auto-automobile-244206.jpg"
+			},
+			{
+				"modelId": 2,
+				"modelName": "A6",
+				"price": 25000,
+				"image": "http://res.cloudinary.com/jrleon90/image/upload/v1521838811/asphalt-auto-automobile-244206.jpg"
+			}
+			]
 		},
-		{
-			"id": 2,
-			"brand": "Audi",
-			"model": "A6",
-			"price": 25000,
-			"image": "http://res.cloudinary.com/jrleon90/image/upload/v1521838811/asphalt-auto-automobile-244206.jpg"
-		},
-		{
-			"id": 3,
-			"brand": "Mercedes Benz",
-			"model": "AMG",
-			"price": 50000,
-			"image":"http://res.cloudinary.com/jrleon90/image/upload/c_scale,h_491/v1521838798/automobile-automotive-car-112460.jpg"
-		}
+		"brandId": 2,
+		"brandName": "Mercedes Benz",
+		"models": [
+			{
+				"modelId": 3,
+				"modelName": "AMG",
+				"price": 50000,
+				"image":"http://res.cloudinary.com/jrleon90/image/upload/c_scale,h_491/v1521838798/automobile-automotive-car-112460.jpg"
+			}
+		]
 		
 	]
 }
